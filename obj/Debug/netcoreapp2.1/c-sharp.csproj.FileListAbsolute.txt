@@ -1,0 +1,11 @@
+/Users/anthonyzyrek/my-Repos/c-sharp/bin/Debug/netcoreapp2.1/c-sharp.deps.json
+/Users/anthonyzyrek/my-Repos/c-sharp/bin/Debug/netcoreapp2.1/c-sharp.runtimeconfig.json
+/Users/anthonyzyrek/my-Repos/c-sharp/bin/Debug/netcoreapp2.1/c-sharp.runtimeconfig.dev.json
+/Users/anthonyzyrek/my-Repos/c-sharp/bin/Debug/netcoreapp2.1/c-sharp.dll
+/Users/anthonyzyrek/my-Repos/c-sharp/bin/Debug/netcoreapp2.1/c-sharp.pdb
+/Users/anthonyzyrek/my-Repos/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.csprojAssemblyReference.cache
+/Users/anthonyzyrek/my-Repos/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.csproj.CoreCompileInputs.cache
+/Users/anthonyzyrek/my-Repos/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.AssemblyInfoInputs.cache
+/Users/anthonyzyrek/my-Repos/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.AssemblyInfo.cs
+/Users/anthonyzyrek/my-Repos/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.dll
+/Users/anthonyzyrek/my-Repos/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.pdb
